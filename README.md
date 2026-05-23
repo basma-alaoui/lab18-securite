@@ -1,10 +1,8 @@
 # LAB 18 : FireStorm – Résolution détaillée étape par étape
 
-**Cours : Sécurité des applications mobiles**  
-**Niveau : Medium**  
-**Techniques : Reverse Android (Jadx), Hooking Java (Frida), Authentification Firebase**
-
----
+  Cours : Sécurité des applications mobiles**  
+Niveau : Medium
+**Techniques : Reverse Android (Jadx), Hooking Java (Frida), Authentification Firebase
 
 ## 1. Objectif du challenge
 
@@ -17,8 +15,6 @@ L’objectif est de :
 3. Récupérer le `flag` stocké dans la base de données.
 
 ![Objectif](Capture%20d'écran%202026-05-23%20110929.png)
-
----
 
 ## 2. Étape 1 : Préparation de l’environnement
 
